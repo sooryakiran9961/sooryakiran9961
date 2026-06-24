@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/soorya-kiran">
+  <a href="https://https://www.linkedin.com/in/soorya-kiran-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@gmail.com">
